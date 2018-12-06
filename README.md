@@ -1,1 +1,2 @@
-# A collection of  Sample scripts for Acitve Directory domain migration.  Assumes users have already been migrated with ADMT.
+# A collection of Sample scripts for Active Directory domain migration.
+Sample scripts for Active Directory domain migrations.  
