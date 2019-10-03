@@ -1,2 +1,2 @@
 # Migration Scripts for a very unique AD migration 
-Scripts for a complex migration scenario that involves multiple forests, including a source user forest, target user forest, target exchange resource forest, and a target exchange admin forest.
+Scripts for a complex migration scenario that involves multiple forests; including a source user forest, target user forest, target exchange resource forest, and a target exchange admin forest.  ADMT was used to migrate user objects into both the target user forest for identity, and the target exchange forest for the linked shadow account.  Your mileage may vary :)
